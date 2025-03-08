@@ -1,16 +1,16 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRB6p6FN/HBO.png" group-title="Cine y Series",HBO
-http://217.26.190.130:22000/play/a0wg
+http://217.26.190.130:22000/play/a0wg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccJD6Pcs/HBO2.png" group-title="Cine y Series",HBO2
-http://190.123.90.146:8000/play/a01k
+http://190.123.90.146:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpHgFMpL/HBO-PLUS.png" group-title="Cine y Series",HBO+
-http://190.123.90.146:8000/play/a01v
+http://190.123.90.146:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNStZvTj/HBO-FAMILY.png" group-title="Cine y Series",HBO FAMILY
-http://217.26.190.130:22000/play/a0u1
+http://217.26.190.130:22000/play/a0u1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HRtzfBx/HBO-MUNDI.png" group-title="Cine y Series",HBO MUNDI
-http://217.26.190.130:22000/play/a0y4
+http://217.26.190.130:22000/play/a0y4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfNKWt81/HBO-POP.png" group-title="Cine y Series",HBO POP
-http://217.26.190.130:22000/play/a0v1
+http://217.26.190.130:22000/play/a0v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gF3m8WZG/HBO-SIGNATURE.png" group-title="Cine y Series",HBO SIGNATURE
-http://181.13.173.86:8000/play/a02c
+http://181.13.173.86:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3s4Jq0Q/HBO-XTREME.png" group-title="Cine y Series",HBO XTREME
-http://217.26.190.130:22000/play/a0u2
+http://217.26.190.130:22000/play/a0u2/index.m3u8
