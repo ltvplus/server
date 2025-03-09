@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnYpYHzq/ESPN.png" group-title="Deportes",ESPN
-http://217.26.190.130:22000/play/a0wn
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VY8gRDk/ESPN2.png" group-title="Deportes",ESPN 2
-http://217.26.190.130:22000/play/a0v0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycKgBfC7/ESPN3.png" group-title="Deportes",ESPN 3
-http://217.26.190.130:22000/play/a0ww
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDbLPNgJ/ESPN4.png" group-title="Deportes",ESPN 4
-http://217.26.190.130:22000/play/a0uo
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Espn4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
-http://217.26.190.130:22000/play/a0we
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
-http://217.26.190.130:22000/play/a0u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
-http://217.26.190.130:22000/play/a0vw
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7.stream/playlist.m3u8
