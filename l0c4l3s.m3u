@@ -1,45 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jn19_pe.png" group-title="Locales",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Locales",Tele VID
-https://servilive.com:3224/live/jn19tv2live.m3u8
-#EXTINF:-1 tvg-logo="https://www.ondadigital.pe/imgs/ondadigital.png" group-title="Locales",Onda Digital
-https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Locales",Bethel TV
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Locales",Trivu TV
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Locales",Pax TV
-https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
-#EXTINF:-1 group-title="Locales",Ipe
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 group-title="Locales",TVPE Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 group-title="Locales",TVPE Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 group-title="Locales",Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 group-title="Locales",PBO
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Locales",CTV
-https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/playlist.m3u8
-#EXTINF:-1 group-title="Locales",Intuitiva TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1gr0zgd/CPN.png" group-title="Locales",CPN
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 group-title="Locales",Onda Digital
-https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Locales",Onda Digital 2
-https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Locales",Onda Digital 3 Radio
-https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Locales",Ovacion TV
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="Locales",Región TV Callao
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 group-title="Locales",San Borja TV
-https://media.mediacorp.pe/srt/3/chunks.m3u8
-#EXTINF:-1 group-title="Locales",TVOne
-https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 group-title="Locales",USIL TV
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 group-title="Locales",Diaspora Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwJKCWSP/CTV.png" group-title="Locales",CTV
+https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdVWWw5q/DIASPORATV.png" group-title="Locales",Diaspora Tv
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldc07QhC/ODTV.png" group-title="Locales",ODTV
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwv0FSGc/ODTV2.png" group-title="Locales",ODTV 2
+https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99rY3bxM/ONDA-DIGITAL.png" group-title="Locales",Onda Digital
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkM8pwCZ/ODRADIO.png" group-title="Locales",Onda Digital Radio
+https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndjt7mtL/OVACION.png" group-title="Locales",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqdGyHsV/PBO.png" group-title="Locales",PBO
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nshPYRs4/RTVCALLAO.png" group-title="Locales",Región TV Callao
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p9DXnCC/RTV-SANBORJA.png" group-title="Locales",San Borja TV
+https://media.mediacorp.pe/srt/3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMQspm93/TRIVUTV.png" group-title="Locales",Trivu TV
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjjj6L8X/TVONE.png" group-title="Locales",TVOne
+https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RThmtQw5/tvper-internacional.png" group-title="Locales",TVPE Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xysdPds/tvper-noticias.png" group-title="Locales",TVPE Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RrmqH9p/USILTV.png" group-title="Locales",USIL TV
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
