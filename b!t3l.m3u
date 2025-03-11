@@ -27,15 +27,5 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="Locales Perú",CONECTA2 TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectado2_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="Locales Perú",OVACION
-https://live-zlr1.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc8yg50S/LIKETV.png" group-title="Locales Perú",LIKE TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YJNnf2z/BHTV.png" group-title="Locales Perú",BHTV
-https://live-zlr1.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFpVP3pL/NATIVA.png" group-title="Locales Perú",NATIVA TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/nativa_ori_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QSDQdFj/TELELIMA.png" group-title="Locales Perú",TELELIMA
-https://live-zlr1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whVGb3G6/MATICES.png" group-title="Locales Perú",MATICES
-https://play.agenciastreaming.com:8081/maticestv/index.m3u8
