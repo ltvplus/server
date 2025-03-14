@@ -21,6 +21,48 @@ https://live.obslivestream.com/canal8/index.m3u8
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 group-title="Región Costa",Tumbes TV
 https://servilive.com:3531/stream/play.m3u8
+
+#EXTINF:-1 group-title="Región Sierra",Agro TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 group-title="Región Sierra",Telesur Camana 
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 group-title="Región Sierra",Mega TV
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:-1 group-title="Región Sierra",Controversia TV 
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 group-title="Región Sierra",Visión Sur TV 
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 group-title="Región Sierra",Atlantis Ayacucho
+https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/chunks.m3u8
+#EXTINF:-1 group-title="Región Sierra",Canal 25 Ayacucho
+https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Región Sierra",Turbo Mix Radio TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="Región Sierra",Cajamarca TV
+https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/chunks.m3u8
+#EXTINF:-1 group-title="Región Sierra",CTC
+https://live-evg25.tv360.bitel.com.pe/bitel/ctc/bitel/ctc_ori_360p/chunks.m3u8
+#EXTINF:-1 group-title="Región Sierra",DMJ 
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 group-title="Región Sierra",QT Televisión 
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 group-title="Región Sierra",TV Sistemas Cusco 
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 group-title="Región Sierra",TV en Linea 
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+#EXTINF:-1 group-title="Región Sierra",Miel TV 
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 group-title="Región Sierra",Nativa TV Satipo 
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 group-title="Región Sierra",Unitel TV 
+https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
+#EXTINF:-1 group-title="Región Sierra",Telesur Ilo
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 group-title="Región Sierra",Telesur Moquegua
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 group-title="Región Sierra",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
 #EXTINF:-1 group-title="Región Selva",Nova TV Star
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 group-title="Región Selva",Nova TV Star
@@ -73,43 +115,3 @@ https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 group-title="Región Selva",Ucayali TV
 https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Región Sierra",Agro TV
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 group-title="Región Sierra",Telesur Camana 
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 group-title="Región Sierra",Mega TV
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 group-title="Región Sierra",Controversia TV 
-https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 group-title="Región Sierra",Visión Sur TV 
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 group-title="Región Sierra",Atlantis Ayacucho
-https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/chunks.m3u8
-#EXTINF:-1 group-title="Región Sierra",Canal 25 Ayacucho
-https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Región Sierra",Turbo Mix Radio TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="Región Sierra",Cajamarca TV
-https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/chunks.m3u8
-#EXTINF:-1 group-title="Región Sierra",CTC
-https://live-evg25.tv360.bitel.com.pe/bitel/ctc/bitel/ctc_ori_360p/chunks.m3u8
-#EXTINF:-1 group-title="Región Sierra",DMJ 
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 group-title="Región Sierra",QT Televisión 
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 group-title="Región Sierra",TV Sistemas Cusco 
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 group-title="Región Sierra",TV en Linea 
-https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
-#EXTINF:-1 group-title="Región Sierra",Miel TV 
-https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 group-title="Región Sierra",Nativa TV Satipo 
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 group-title="Región Sierra",Unitel TV 
-https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
-#EXTINF:-1 group-title="Región Sierra",Telesur Ilo
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 group-title="Región Sierra",Telesur Moquegua
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 group-title="Región Sierra",Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
