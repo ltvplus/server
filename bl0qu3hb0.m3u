@@ -6,10 +6,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO2/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNStZvTj/HBO-FAMILY.png" group-title="Cine y Series",HBO FAMILY
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HRtzfBx/HBO-MUNDI.png" group-title="Cine y Series",HBO MUNDI
-http://217.26.190.130:22000/play/a0y4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfNKWt81/HBO-POP.png" group-title="Cine y Series",HBO POP
-http://217.26.190.130:22000/play/a0v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gF3m8WZG/HBO-SIGNATURE.png" group-title="Cine y Series",HBO SIGNATURE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3s4Jq0Q/HBO-XTREME.png" group-title="Cine y Series",HBO XTREME
