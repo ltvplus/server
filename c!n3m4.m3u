@@ -24,4 +24,4 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj702Jbq/TNT-SERIES.png" group-title="Cine y Series",TNT SERIES
 http://200.60.97.100:28888/play/a0dx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whnJrMS4/TNT.png" group-title="Cine y Series",BitME
-https://e1.viginet.vectormax.com:5210/quickstart/114-1959-118/index.m3u8
+https://e1.viginet.vectormax.com:5210/quickstart/114-1959-118/index.mpd
