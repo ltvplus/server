@@ -149,11 +149,13 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Canal_Las_Estrellas.stream/chunks.
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",UNIVISION
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",MIMUSICA HITS
-https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",MIMUSICA REGGAETON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLjtn5Yx/MIMUSICA-PERU.png" group-title="Música",MI MUSICA PERU
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/mimusicaperu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvw5FyQ8/MIMUSICA-REGGAETON.png" group-title="Música",MI MUSICA REGGAETON
 https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",MIMUSICA ROMANTICA
-https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",MIMUSICA SALSA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HZPrGnG/MIMUSICA-SALSA.png" group-title="Música",MI MUSICA SALSA
 https://e1.viginet.vectormax.com:5210/quickstart/114-5260-63/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpW9stNW/MIMUSICA-HITS.png" group-title="Música",MI MUSICA HITS
+https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFs2sZTj/MIMUSICA-ROMANTICA.png" group-title="Música",MI MUSICA ROMANTICA
+https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.mpd
