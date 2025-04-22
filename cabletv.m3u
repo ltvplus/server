@@ -153,7 +153,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60KgDH0R/SONY-CINE.png" group-title="Cine y Series",SONY CINE
 https://a-cdn.klowdtv.com/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9v8RYbq/CINEMA.png" group-title="Cine y Series",CINEMA
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/azcinema.stream/chunks.m3u8
+http://190.61.55.107:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqSgtSft/TLNOVELAS.png" group-title="Novelas",TLNOVELAS
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fbk86KrM/KANAL-D-DRAMA.png" group-title="Novelas",KANAL D DRAMA
@@ -186,3 +186,17 @@ http://190.216.162.153:8001/play/a09r/index.m3u8
 http://200.60.97.100:28888/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
 http://200.60.97.100:28888/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjFCv03H/PERU-MAGICO.png" group-title="Internacionales",PERU MAGICO
+http://181.119.68.227:9500/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDspfh7D/CANAL-N.png" group-title="Noticias",CANAL N
+http://200.60.97.100:28888/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YmPDTfQ/FMH-FAMILY.png" group-title="Cine y Series",FMH FAMILY
+http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNCYbtYp/GOLDEN-EDGE.png" group-title="Cine y Series",GOLDEN EDGE
+http://190.61.55.107:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84G8Np38/MULTICINEMA.png" group-title="Cine y Series",MULTICINEMA
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m9wMxqq/MULTIPREMIER.png" group-title="Cine y Series",MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pB1qVqn8/D-PELICULA.png" group-title="Cine y Series",D PELICULA
+http://200.92.227.238:8000/play/a0v4/index.m3u8
