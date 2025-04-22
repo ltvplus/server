@@ -4,7 +4,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kKJsj3g/LATINA.png" group-title="Nacionales Perú",LATINA
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7n0n14L/KARIBENA.png" group-title="Nacionales Perú",KARIBEÑA
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpjfT12j/AMERICA.png" group-title="Nacionales Perú",AMERICA
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d46jNSvg/PANAMERICANA.png" group-title="Nacionales Perú",PANAMERICANA
