@@ -28,7 +28,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="Locales Perú",CONECTA2 TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="Locales Perú",OVACION
-https://live-zlr1.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/ovaciontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc8yg50S/LIKETV.png" group-title="Locales Perú",LIKE TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YJNnf2z/BHTV.png" group-title="Locales Perú",BHTV
