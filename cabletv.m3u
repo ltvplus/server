@@ -100,7 +100,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/paramount.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QF65VvwZ/SONY-CHANNEL.png" group-title="Cine y Series",SONY CHANNEL
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDFjjhcc/SONY-MOVIES.png" group-title="Cine y Series",SONY MOVIES
-http://190.60.41.190:45000/play/a088/index.m3u8
+http://181.119.85.222:8000/play/a02b/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonymovies.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfWXtZwh/SPACE.png" group-title="Cine y Series",SPACE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/chunks.m3u8
@@ -141,9 +141,7 @@ http://179.1.146.21:8000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNStZvTj/HBO-FAMILY.png" group-title="Cine y Series",HBO FAMILY
 http://45.5.117.35:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HRtzfBx/HBO-MUNDI.png" group-title="Cine y Series",HBO MUNDI
-http://181.119.68.227:9500/play/a0aa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfNKWt81/HBO-POP.png" group-title="Cine y Series",HBO POP
-http://177.53.155.236:8000/play/a0dz/index.m3u8
+http://190.102.139.240:7878/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gF3m8WZG/HBO-SIGNATURE.png" group-title="Cine y Series",HBO SIGNATURE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3s4Jq0Q/HBO-XTREME.png" group-title="Cine y Series",HBO XTREME
@@ -186,3 +184,5 @@ http://200.60.97.100:28888/play/a0c9/index.m3u8
 http://190.216.162.153:8001/play/a09r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
 http://200.60.97.100:28888/play/a07y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
+http://200.60.97.100:28888/play/a0cb/index.m3u8
