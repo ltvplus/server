@@ -111,6 +111,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/chunks.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj702Jbq/TNT-SERIES.png" group-title="Cine y Series",TNT SERIES
 http://200.125.170.120:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGYLVKpN/TCM.png" group-title="Cine y Series",TCM
+http://45.5.117.35:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bM3HxkRn/USA.png" group-title="Cine y Series",USA
 http://190.0.241.181:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwJmFLVL/WARNER-TV.png" group-title="Cine y Series",WARNER CHANNEL
@@ -134,13 +136,17 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccJD6Pcs/HBO2.png" group-title="Cine y Series",HBO2
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpHgFMpL/HBO-PLUS.png" group-title="Cine y Series",HBO+
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
+http://179.1.146.21:8000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNStZvTj/HBO-FAMILY.png" group-title="Cine y Series",HBO FAMILY
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
+http://45.5.117.35:8000/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HRtzfBx/HBO-MUNDI.png" group-title="Cine y Series",HBO MUNDI
+http://181.119.68.227:9500/play/a0aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfNKWt81/HBO-POP.png" group-title="Cine y Series",HBO POP
+http://177.53.155.236:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gF3m8WZG/HBO-SIGNATURE.png" group-title="Cine y Series",HBO SIGNATURE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3s4Jq0Q/HBO-XTREME.png" group-title="Cine y Series",HBO XTREME
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
+http://45.5.117.35:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Xj3c3wt/FMH-MOVIES.png" group-title="Cine y Series",FMH MOVIES
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Movies.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqYyVjLT/GOLDEN.png" group-title="Cine y Series",GOLDEN
