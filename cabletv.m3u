@@ -82,7 +82,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BTYC_Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9PdtLQ/A-E.png" group-title="Cine y Series",A&E
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5h2PGqNx/AMC.png" group-title="Cine y Series",AMC
-http://200.60.97.100:28888/play/a0f8/index.m3u8
+http://181.209.95.29:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NXd6mZm/AXN.png" group-title="Cine y Series",AXN
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/359pqQHd/CINE-CANAL.png" group-title="Cine y Series",CINECANAL
