@@ -159,7 +159,13 @@ https://e1.viginet.vectormax.com:5210/quickstart/114-5260-63/index.m3u8
 https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFs2sZTj/MIMUSICA-ROMANTICA.png" group-title="Música",MI MUSICA ROMANTICA
 https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Deportes",DSPORTS
+http://177.53.155.236:8000/play/a0co/index.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Deportes",DSPORTS2
+http://200.60.97.100:28888/play/a0c8/index.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Deportes",DSPORTS+
+http://200.60.97.100:28888/play/a0c9/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Deportes",L1
-http://190.216.162.153:8001/play/a09r/index.m3u8
+http://190.216.162.153:8001/play/a09r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
 http://200.60.97.100:28888/play/a07y/index.m3u8
