@@ -179,6 +179,16 @@ http://190.60.41.190:45000/play/a0be/index.m3u8
 http://160.20.165.246:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gvz1vjfr/DISCOVERY-TURBO.png" group-title="Entretenimiento",DISCOVERY TURBO
 http://190.60.41.190:45000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TGAIbXV.png" group-title="Religión",EWTN
+https://e1.viginet.vectormax.com:5210/quickstart/114-64-57/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg9SpXCY/PAXTV.png" group-title="Religión",Pax TV
+https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMYg5TW2/JN19.png" group-title="Religión",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC3Qb1fT/BETHELTV.png" group-title="Religión",Bethel TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNFvfhF6/enlace.png" group-title="Religión",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OAKDuyh.png" group-title="Música",VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpW9stNW/MIMUSICA-HITS.png" group-title="Música",MI MUSICA HITS
