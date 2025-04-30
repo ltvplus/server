@@ -9,7 +9,7 @@ http://200.60.97.100:28888/play/a072/index.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d46jNSvg/PANAMERICANA.png" group-title="Nacionales Perú",PANAMERICANA
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y8hWQ90/EXITOSA.png" group-title="Nacionales Perú",EXITOSA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y8hWQ90/EXITOSA.png" group-title="Noticias Perú",EXITOSA
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9k59dSMX/TVPERU.png" group-title="Nacionales Perú",TV PERU
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu_ori_source/chunks.m3u8
@@ -182,7 +182,7 @@ http://190.60.41.190:45000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TGAIbXV.png" group-title="Religión",EWTN
 https://e1.viginet.vectormax.com:5210/quickstart/114-64-57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg9SpXCY/PAXTV.png" group-title="Religión",Pax TV
-https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
+https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_768x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMYg5TW2/JN19.png" group-title="Religión",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC3Qb1fT/BETHELTV.png" group-title="Religión",Bethel TV
