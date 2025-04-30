@@ -3,8 +3,8 @@
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kKJsj3g/LATINA.png" group-title="Nacionales Perú",LATINA
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7n0n14L/KARIBENA.png" group-title="Nacionales Perú",KARIBEÑA
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDspfh7D/CANAL-N.png" group-title="Noticias",CANAL N
+http://200.60.97.100:28888/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpjfT12j/AMERICA.png" group-title="Nacionales Perú",AMERICA
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d46jNSvg/PANAMERICANA.png" group-title="Nacionales Perú",PANAMERICANA
@@ -13,7 +13,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana_ori_source/chunks.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9k59dSMX/TVPERU.png" group-title="Nacionales Perú",TV PERU
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0kwJkM4/ATVPLUS.png" group-title="Nacionales Perú",ATV+ NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0kwJkM4/ATVPLUS.png" group-title="Noticias",ATV+ NOTICIAS
 https://live-zlr1.tv360.bitel.com.pe/bitel/atvmas_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png" group-title="Nacionales Perú",ATV
 https://live-zlr1.tv360.bitel.com.pe/bitel/atv_ori_source/chunks.m3u8
