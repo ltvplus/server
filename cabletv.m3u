@@ -201,3 +201,5 @@ https://e1.viginet.vectormax.com:5210/quickstart/114-5260-63/index.m3u8
 https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.m3u8
 #EXTINF:-1,255
 http://cdnexterno.thomas-talk.me:8081/externo/canal_veplus/playlist.m3u8
+#EXTINF:-1,Canal N
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3331.ts
