@@ -70,9 +70,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Espn4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
 http://181.78.6.66:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
-http://160.20.165.246:8000/play/a023/index.m3u8
+http://181.78.6.66:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
-http://160.20.165.246:8000/play/a022/index.m3u8
+http://181.78.6.66:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bein_sports_Xtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9dBBjS/GOLTV.png" group-title="Deportes",GOLTV
