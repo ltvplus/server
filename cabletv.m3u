@@ -199,7 +199,9 @@ https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
 https://e1.viginet.vectormax.com:5210/quickstart/114-5260-63/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvw5FyQ8/MIMUSICA-REGGAETON.png" group-title="Música",MI MUSICA REGGAETON
 https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.m3u8
-#EXTINF:-1,255
-http://cdnexterno.thomas-talk.me:8081/externo/canal_veplus/playlist.m3u8
-#EXTINF:-1,Canal N
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3331.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Deportes",DSPORTS
+http://177.53.155.236:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Deportes",DSPORTS2
+http://200.60.97.100:28888/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Deportes",DSPORTS+
+http://200.60.97.100:28888/play/a0c9/index.m3u8
