@@ -59,26 +59,6 @@ https://stream.gia.tv/giatvplayout7/giatv-208725/playlist.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Infantiles",EL CHAVO
 https://stream.gia.tv/giatvplayout7/giatv-208219/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYpYHzq/ESPN.png" group-title="Deportes",ESPN
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0VY8gRDk/ESPN2.png" group-title="Deportes",ESPN 2
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycKgBfC7/ESPN3.png" group-title="Deportes",ESPN 3
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TDbLPNgJ/ESPN4.png" group-title="Deportes",ESPN 4
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Espn4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
-http://181.78.6.66:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
-http://181.78.6.66:8000/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
-http://181.78.6.66:8000/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bein_sports_Xtra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9dBBjS/GOLTV.png" group-title="Deportes",GOLTV
-https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/goltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
-http://200.60.97.100:28888/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGkj8np/HISTORY.png" group-title="Ciencia y Cultura",HISTORY CHANNEL
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pKrrZgg/HISTORY2.png" group-title="Ciencia y Cultura",HISTORY 2
@@ -99,6 +79,26 @@ http://190.60.41.190:45000/play/a0be/index.m3u8
 http://160.20.165.246:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gvz1vjfr/DISCOVERY-TURBO.png" group-title="Entretenimiento",DISCOVERY TURBO
 http://190.60.41.190:45000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYpYHzq/ESPN.png" group-title="Deportes",ESPN
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VY8gRDk/ESPN2.png" group-title="Deportes",ESPN 2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycKgBfC7/ESPN3.png" group-title="Deportes",ESPN 3
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDbLPNgJ/ESPN4.png" group-title="Deportes",ESPN 4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Espn4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
+http://181.78.6.66:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
+http://181.78.6.66:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
+http://181.78.6.66:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bein_sports_Xtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9dBBjS/GOLTV.png" group-title="Deportes",GOLTV
+https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/goltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
+http://200.60.97.100:28888/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9PdtLQ/A-E.png" group-title="Cine y Series",A&E
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5h2PGqNx/AMC.png" group-title="Cine y Series",AMC
@@ -133,10 +133,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxpQrm5g/UNIVERSAL-CINEMA.png" group-title="Cine y Series",UNIVERSAL CINEMA
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWWYjHgZ/UNIVERSAL-PREMIERE.png" group-title="Cine y Series",UNIVERSAL PREMIERE  ᴱ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWWYjHgZ/UNIVERSAL-PREMIERE.png" group-title="Cine y Series",UNIVERSAL PREMIERE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bM3HxkRn/USA.png" group-title="Cine y Series",USA
-http://190.0.241.181:8000/play/a0cl/index.m3u8
+http://179.1.146.21:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwJmFLVL/WARNER-TV.png" group-title="Cine y Series",WARNER CHANNEL
 http://45.5.117.35:8000/play/a0ho/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kw1xvsW/CINE-FAMILIAR.png" group-title="Cine y Series",CINE FAMILIAR
