@@ -89,9 +89,9 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tFGbnbg/COSITEL.png" group-title="|PE| Provincia",COSITEL
 https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWfjfcS3/ANTARES-TELEVISION.png" group-title="|PE| Provincia",ANTARES TELEVISION
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Provincia",CNC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Provincia",CNC CAJAMARCA
+https://live-evg25.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Provincia",CNC IQUITOS
 https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkgR4Wdx/AUTENTICA-TV.png" group-title="|PE| Provincia",AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -100,15 +100,15 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbLXnrr8/RIBERE-A.png" group-title="|PE| Provincia",RIBEREÑA
 https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfRxQPym/SIMPSON.png" group-title="Infantiles",LOS SIMPSON
-https://stream.gia.tv/giatvplayout7/giatv-208410/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjYt4880/LOS-PITUFOS.png" group-title="Infantiles",LOS PITUFOS
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gFW5JR8/DRAGON-BALL-Z.png" group-title="Infantiles",DRAGON BALL Z
-https://stream.gia.tv/giatvplayout7/giatv-208725/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j1QjYd5/DRAGON-BALL-SUPER.png" group-title="Infantiles",DRAGON BALL SUPER
-https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Infantiles",EL CHAVO
-https://stream.gia.tv/giatvplayout7/giatv-208219/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kw1xvsW/CINE-FAMILIAR.png" group-title="Cine y Series",CINE FAMILIAR
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kjt9WfHw/CINE-HISPANO.png" group-title="Cine y Series",CINE HISPANO
