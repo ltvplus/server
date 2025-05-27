@@ -26,7 +26,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgPwwHS1/GLOBAL.png" group-title="|PE| Nacionales",GLOBAL
 https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7n0n14L/KARIBENA.png" group-title="|PE| Locales",KARIBEÑA
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SYt4PhF/TOP-LATINO.png" group-title="|PE| Locales",TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="|PE| Locales",OVACION
@@ -46,7 +46,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc8yg50S/LIKETV.png" group-title="|PE| Locales",LIKE TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whVGb3G6/MATICES.png" group-title="|PE| Locales",MATICES
-https://stream.gia.tv/giatv/giatv-Maticestv/Maticestv/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-Maticestv/Maticestv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC3Qb1fT/BETHELTV.png" group-title="|PE| Locales",BETHEL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc9PY9dt/LATINA-NOTICIAS.png" group-title="|PE| Locales",LATINA NOTICIAS
@@ -59,9 +59,9 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B513TXpt/CANAL-IPE.png" group-title="|PE| Locales",CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng86jy1t/ODTV.png" group-title="|PE| Locales",ONDA DIGITAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng86jy1t/ODTV.png" group-title="|PE| Locales",ONDA DIGITAL TV
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ym4TnB7m/ODTV2.png" group-title="|PE| Locales",ONDA DIGITAL 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ym4TnB7m/ODTV2.png" group-title="|PE| Locales",ONDA DIGITAL TV 2
 https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKjsJGWS/ODRADIO.png" group-title="|PE| Locales",ONDA DIGITAL 3 RADIO
 https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
@@ -79,63 +79,63 @@ https://live-evg25.tv360.bitel.com.pe/bitel/neotv/chunks.m3u8
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q77BmbxQ/TVONE.png" group-title="|PE| Locales",TVONE
 https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/39M98nM2/AGROTV.png" group-title="|PE| Provincia",AGRO TV
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RNPCxBb/UNITELTV.png" group-title="|PE| Provincia",UNITEL TV
-https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMSHXsyb/MEGATV.png" group-title="|PE| Provincia",MEGA TV
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp2PwPNJ/VISION-SUR.png" group-title="|PE| Provincia",VISION SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tyP8MP6/COSMOS.png" group-title="|PE| Región Costa",COSMOS TV
+https://live-evg12.tv360.bitel.com.pe/8134/8134/chunklist_w1482158653.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksjKMwBq/N-CANAL.png" group-title="|PE| Región Costa",N CANAL
+https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFQRbQVR/SOLTV.png" group-title="|PE| Región Costa",SOLTV
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR AREQUIPA
+https://telesurnew.b-cdn.net/hls/arequipa.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR ILO
+https://telesurnew.b-cdn.net/hls/ilo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR MOLLENDO
+https://telesurnew.b-cdn.net/hls/mollendo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR MOQUEGUA
+https://telesurnew.b-cdn.net/hls/moquegua.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR TACNA
+https://telesurnew.b-cdn.net/hls/tacna.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp2PwPNJ/VISION-SUR.png" group-title="|PE| Región Costa",VISION SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tFGbnbg/COSITEL.png" group-title="|PE| Provincia",COSITEL
-https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Provincia",CNC CAJAMARCA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39M98nM2/AGROTV.png" group-title="|PE| Región Sierra",AGRO TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vct8nfRM/AUNO.png" group-title="|PE| Región Sierra",AUNO
+https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Región Sierra",CNC CAJAMARCA
 https://live-evg25.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Provincia",CNC IQUITOS
-https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkgR4Wdx/AUTENTICA-TV.png" group-title="|PE| Provincia",AUTENTICA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tFGbnbg/COSITEL.png" group-title="|PE| Región Sierra",COSITEL
+https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMSHXsyb/MEGATV.png" group-title="|PE| Región Sierra",MEGA TV AREQUIPA
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTpSVqQM/TV-WANKA.png" group-title="|PE| Región Sierra",TV WANKA
+https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RNPCxBb/UNITELTV.png" group-title="|PE| Región Sierra",UNITEL TV
+https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vpcqvr8/AMAZONICA-TV.png" group-title="|PE| Región Selva",AMAZONICA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkgR4Wdx/AUTENTICA-TV.png" group-title="|PE| Región Selva",AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5XM0GVzB/CRTV.png" group-title="|PE| Provincia",CRTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZ6wQ3Y5/CNC-I.png" group-title="|PE| Región Selva",CNC IQUITOS
+https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XM0GVzB/CRTV.png" group-title="|PE| Región Selva",CRTV
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbLXnrr8/RIBERE-A.png" group-title="|PE| Provincia",RIBEREÑA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj4CMNxR/PLANETA.png" group-title="|PE| Región Selva",PLANETA
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbLXnrr8/RIBERE-A.png" group-title="|PE| Región Selva",RIBEREÑA
 https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfRxQPym/SIMPSON.png" group-title="Infantiles",LOS SIMPSON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd4Nnfw1/SELVA-TV.png" group-title="|PE| Región Selva",SELVA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxQQ6jdF/SUPER-CANAL.png" group-title="|PE| Región Selva",SUPER CANAL
+https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MygFNQgG/TELECOLOR.png" group-title="|PE| Región Selva",TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfRxQPym/SIMPSON.png" group-title="Streaming",LOS SIMPSON
 https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjYt4880/LOS-PITUFOS.png" group-title="Infantiles",LOS PITUFOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjYt4880/LOS-PITUFOS.png" group-title="Streaming",LOS PITUFOS
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gFW5JR8/DRAGON-BALL-Z.png" group-title="Infantiles",DRAGON BALL Z
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gFW5JR8/DRAGON-BALL-Z.png" group-title="Streaming",DRAGON BALL Z
 https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j1QjYd5/DRAGON-BALL-SUPER.png" group-title="Infantiles",DRAGON BALL SUPER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j1QjYd5/DRAGON-BALL-SUPER.png" group-title="Streaming",DRAGON BALL SUPER
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Infantiles",EL CHAVO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Streaming",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kw1xvsW/CINE-FAMILIAR.png" group-title="Cine y Series",CINE FAMILIAR
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kjt9WfHw/CINE-HISPANO.png" group-title="Cine y Series",CINE HISPANO
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VY5kYj2x/CINE-PREMIUM.png" group-title="Cine y Series",CINE PREMIUM
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YmPDTfQ/FMH-FAMILY.png" group-title="Cine y Series",FMH FAMILY
-http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Xj3c3wt/FMH-MOVIES.png" group-title="Cine y Series",FMH MOVIES
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Movies.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dwSwwK64/LA-1.png" group-title="Internacionales",LA 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F44GBXJ2/LA-2.png" group-title="Internacionales",LA 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7JYxhK4D/ANTENA-3-INT.png" group-title="Internacionales",ANTENA 3 INTERNACIONAL
-http://160.20.165.246:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j95scBF7/TELEMUNDO.png" group-title="Internacionales",TELEMUNDO INTERNACIONAL
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telemundo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhzwZFkd/UNIVISION.png" group-title="Internacionales",UNIVISION
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OAKDuyh.png" group-title="Música",VM LATINO
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpW9stNW/MIMUSICA-HITS.png" group-title="Música",MI MUSICA HITS
-https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFs2sZTj/MIMUSICA-ROMANTICA.png" group-title="Música",MI MUSICA ROMANTICA
-https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9HZPrGnG/MIMUSICA-SALSA.png" group-title="Música",MI MUSICA SALSA
-https://e1.viginet.vectormax.com:5210/quickstart/114-5260-63/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvw5FyQ8/MIMUSICA-REGGAETON.png" group-title="Música",MI MUSICA REGGAETON
-https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.m3u8
