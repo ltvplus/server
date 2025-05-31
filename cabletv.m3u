@@ -30,7 +30,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SYt4PhF/TOP-LATINO.png" group-title="|PE| Locales",TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="|PE| Locales",OVACION
-https://live-zlr1.tv360.bitel.com.pe/bitel/ovaciontv/playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvovacion2/liveovacion2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="|PE| Locales",CONECTA2 TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFpVP3pL/NATIVA.png" group-title="|PE| Locales",NATIVA TV
@@ -50,7 +50,7 @@ https://live20.bozztv.com/giatv/giatv-Maticestv/Maticestv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC3Qb1fT/BETHELTV.png" group-title="|PE| Locales",BETHEL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc9PY9dt/LATINA-NOTICIAS.png" group-title="|PE| Locales",LATINA NOTICIAS
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27DL43BX/LATINA-CLASICOS.png" group-title="|PE| Locales",LATINA CLASICOS
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFbsSBm6/TVPERU-INTERNACIONAL.png" group-title="|PE| Locales",TV PERU INTERNACIONAL
