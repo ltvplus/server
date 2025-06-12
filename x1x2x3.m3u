@@ -1,1 +1,211 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD2JBPnZ/WILLAX.png" group-title="Nacionales",WILLAX
+https://otakon.bemtv.cn/STREAM/22575/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kKJsj3g/LATINA.png" group-title="Nacionales",LATINA
+https://otakon.bemtv.cn/STREAM/9012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gzhfrDs/RPP.png" group-title="Nacionales",RPP
+http://170.254.234.243:8888/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpjfT12j/AMERICA.png" group-title="Nacionales",AMÉRICA
+https://otakon.bemtv.cn/STREAM/13075/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d46jNSvg/PANAMERICANA.png" group-title="Nacionales",PANAMERICANA
+https://otakon.bemtv.cn/STREAM/22560/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y8hWQ90/EXITOSA.png" group-title="Nacionales",EXITOSA
+https://otakon.bemtv.cn/STREAM/22580/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k59dSMX/TVPERU.png" group-title="Nacionales",TV PERÚ
+http://170.254.234.243:8888/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0kwJkM4/ATVPLUS.png" group-title="Nacionales",ATV+ NOTICIAS
+https://bigboss.bemtv.cn/STREAM/22578/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png" group-title="Nacionales",ATV
+https://bigboss.bemtv.cn/STREAM/22559/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdZdbgBV/LATELE.png" group-title="Locales",LA TELE
+https://otakon.bemtv.cn/STREAM/7753/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pg8f0fN/LATIN-CABLE-TV.png" group-title="Locales",LATIN TV
+http://170.254.234.243:8888/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mLf8jg/FOLKLORE-TV.png" group-title="Locales",FOLKLORE TV
+http://170.254.234.243:8888/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgPwwHS1/GLOBAL.png" group-title="Nacionales",GLOBAL TV
+https://otakon.bemtv.cn/STREAM/22577/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF0Z9XzT/JUSTICIA-TV.png" group-title="Locales",JUSTICIA TV
+http://170.254.234.243:8888/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfxDLp84/PBO.png" group-title="Locales",PBO
+http://170.254.234.243:8888/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="Locales",CONECTA2 TV
+http://170.254.234.243:8888/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QSDQdFj/TELELIMA.png" group-title="Locales",TELELIMA
+http://170.254.234.243:8888/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFpVP3pL/NATIVA.png" group-title="Locales",NATIVA
+http://170.254.234.243:8888/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XfRk4NyT/TOP-LATINO.png" group-title="Música",TOP LATINO
+http://170.254.234.243:8888/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wmq0YHq/TELEHIT-MUSICA.png" group-title="Música",TELEHIT MUSICA
+https://otakon.bemtv.cn/STREAM/22601/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B27b6NCT/DISNEY-CHANNEL.png" group-title="Infantiles",DISNEY CHANNEL
+https://bigboss.bemtv.cn/STREAM/22855/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5SPh8Xn/DISNEY-JR.png" group-title="Infantiles",DISNEY JR.
+https://bigboss.bemtv.cn/STREAM/22856/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgHfwbJf/DISCOVERY-KIDS.png" group-title="Infantiles",DISCOVERY KIDS
+https://bigboss.bemtv.cn/STREAM/2236/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvWBk8Nt/CARTOON-NETWORK.png" group-title="Infantiles",CARTOON NETWORK
+https://bigboss.bemtv.cn/STREAM/6688/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx05Yf6n/CARTOONITO.png" group-title="Infantiles",CARTOONITO
+https://otakon.bemtv.cn/STREAM/22586/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xt3Fjv4f/NICKELODEON.png" group-title="Infantiles",NICKELODEON
+https://bigboss.bemtv.cn/STREAM/2235/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Jp3RPxG/NICK-JR.png" group-title="Infantiles",NICK JR.
+https://otakon.bemtv.cn/STREAM/22592/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hL4W84x/TEEN-NICK.png" group-title="Infantiles",TEENNICK
+https://bigboss.bemtv.cn/STREAM/434/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RKYMT6N/FMH-KIDS.png" group-title="Infantiles",FMH KIDS
+http://170.254.234.243:8888/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJTxrRCZ/PLIM-PLIM-TV.png" group-title="Infantiles",PLIN PLIN
+http://170.254.234.243:8888/play/a02b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hf2dGVj/ANIMAL-PLANET.png" group-title="Ciencia y Cultura",ANIMAL PLANET
+https://otakon.bemtv.cn/STREAM/13044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpkNbq3w/LOVE-NATURE.png" group-title="Ciencia y Cultura",LOVE NATURE
+https://metalgear.bemtv.cn/STREAM/22356/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFgTQDkT/NATIONAL-GEOGRAPHIC.png" group-title="Ciencia y Cultura",NAT GEO
+https://otakon.bemtv.cn/STREAM/13032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGkj8np/HISTORY.png" group-title="Ciencia y Cultura",HISTORY
+https://bigboss.bemtv.cn/STREAM/22844/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pKrrZgg/HISTORY2.png" group-title="Ciencia y Cultura",HISTORY 2
+https://otakon.bemtv.cn/STREAM/13043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJZ2g9Qw/DISCOVERY.png" group-title="Ciencia y Cultura",DISCOVERY
+https://bigboss.bemtv.cn/STREAM/579/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds4TXXNH/DISCOVERY-ID.png" group-title="Ciencia y Cultura",DISCOVERY ID
+https://bigboss.bemtv.cn/STREAM/361/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJHfh850/DISCOVERY-SCIENCE.png" group-title="Ciencia y Cultura",DISCOVERY SCIENCE
+https://otakon.bemtv.cn/STREAM/9116/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tGYkZRR/DISCOVERY-THEATHER.png" group-title="Ciencia y Cultura",DISCOVERY THEATER
+https://bigboss.bemtv.cn/STREAM/580/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DzNy8c2/DISCOVERY-WORLD.png" group-title="Ciencia y Cultura",DISCOVERY WORLD
+https://otakon.bemtv.cn/STREAM/9653/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYpYHzq/ESPN.png" group-title="Deportes",ESPN
+https://metalgear.bemtv.cn/STREAM/10923/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VY8gRDk/ESPN2.png" group-title="Deportes",ESPN 2
+https://metalgear.bemtv.cn/STREAM/11605/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycKgBfC7/ESPN3.png" group-title="Deportes",ESPN 3
+https://metalgear.bemtv.cn/STREAM/11468/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDbLPNgJ/ESPN4.png" group-title="Deportes",ESPN 4
+https://metalgear.bemtv.cn/STREAM/23544/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
+https://metalgear.bemtv.cn/STREAM/22872/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
+https://bigboss.bemtv.cn/STREAM/11464/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
+https://metalgear.bemtv.cn/STREAM/8518/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Deportes",DSPORTS
+https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Deportes",DSPORTS2
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQd9w9xL/TITAN-CHANNEL.png" group-title="Deportes",TITAN CHANNEL
+http://170.254.234.243:8888/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Deportes",L1
+https://otakon.bemtv.cn/STREAM/22991/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
+https://otakon.bemtv.cn/STREAM/22989/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
+https://metalgear.bemtv.cn/STREAM/7668/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
+https://metalgear.bemtv.cn/STREAM/7669/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9PdtLQ/A-E.png" group-title="Cine y Series",A&E
+https://bigboss.bemtv.cn/STREAM/452/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5h2PGqNx/AMC.png" group-title="Cine y Series",AMC
+https://otakon.bemtv.cn/STREAM/16141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NXd6mZm/AXN.png" group-title="Cine y Series",AXN
+https://bigboss.bemtv.cn/STREAM/465/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/359pqQHd/CINE-CANAL.png" group-title="Cine y Series",CINECANAL
+https://otakon.bemtv.cn/STREAM/9223/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93vbP6Xf/CINEMAX.png" group-title="Cine y Series",CINEMAX
+https://otakon.bemtv.cn/STREAM/16138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYBm3GKP/COMEDY-CENTRAL.png" group-title="Cine y Series",COMEDY CENTRAL
+https://bigboss.bemtv.cn/STREAM/586/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRCCV8bD/DHE.png" group-title="Cine y Series",DHE
+https://bigboss.bemtv.cn/STREAM/6591/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/604rt5rk/FX.png" group-title="Cine y Series",FX
+https://bigboss.bemtv.cn/STREAM/360/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zc73QPP/PARAMOUNT-NETWORK.png" group-title="Cine y Series",PARAMOUNT
+https://bigboss.bemtv.cn/STREAM/585/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QF65VvwZ/SONY-CHANNEL.png" group-title="Cine y Series",SONY
+https://bigboss.bemtv.cn/STREAM/9205/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDFjjhcc/SONY-MOVIES.png" group-title="Cine y Series",SONY MOVIES
+https://bigboss.bemtv.cn/STREAM/7688/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfWXtZwh/SPACE.png" group-title="Cine y Series",SPACE
+https://otakon.bemtv.cn/STREAM/16304/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq6mnpLF/STAR-CHANNEL.png" group-title="Cine y Series",STAR CHANNEL
+https://otakon.bemtv.cn/STREAM/22606/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/996pX4LK/STUDIO-UNIVERSAL.png" group-title="Cine y Series",STUDIO UNIVERSAL
+https://otakon.bemtv.cn/STREAM/11545/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGYLVKpN/TCM.png" group-title="Cine y Series",TCM
+https://bigboss.bemtv.cn/STREAM/23572/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whnJrMS4/TNT.png" group-title="Cine y Series",TNT
+https://bigboss.bemtv.cn/STREAM/584/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj702Jbq/TNT-SERIES.png" group-title="Cine y Series",TNT SERIES
+https://bigboss.bemtv.cn/STREAM/587/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjkdR0RJ/UNIVERSAL-TV.png" group-title="Cine y Series",UNIVERSAL TV
+https://bigboss.bemtv.cn/STREAM/459/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bM3HxkRn/USA.png" group-title="Cine y Series",USA
+https://bigboss.bemtv.cn/STREAM/6809/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwJmFLVL/WARNER-TV.png" group-title="Cine y Series",WARNER CHANNEL
+https://metalgear.bemtv.cn/STREAM/22846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60KXLwC2/A3SERIES.png" group-title="Cine y Series",ATRESERIES
+https://bigboss.bemtv.cn/STREAM/7663/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv35YVXb/CLOVER-CHANNEL.png" group-title="Cine y Series",CLOVER
+https://metalgear.bemtv.cn/STREAM/22820/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Xj3c3wt/FMH-MOVIES.png" group-title="Cine y Series",FMH MOVIES
+http://170.254.234.243:8888/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YmPDTfQ/FMH-FAMILY.png" group-title="Cine y Series",FMH FAMILY
+http://170.254.234.243:8888/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGSW65nz/RE-WIND.png" group-title="Cine y Series",REWIND
+http://170.254.234.243:8888/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B20Zh6xt/STAR-TVE.png" group-title="Cine y Series",STAR TVE
+http://170.254.234.243:8888/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrsY9nHk/WEST.png" group-title="Cine y Series",WEST
+http://170.254.234.243:8888/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycXLJPR2/EURO-CHANNEL.png" group-title="Cine y Series",EUROCHANNEL
+https://bigboss.bemtv.cn/STREAM/2367/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pByH778Y/EUROPA-EUROPA.png" group-title="Cine y Series",EUROPA EUROPA
+https://bigboss.bemtv.cn/STREAM/2366/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTnycBGX/FILM-ARTS.png" group-title="Cine y Series",FILM & ARTS
+https://otakon.bemtv.cn/STREAM/13065/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDX578wG/CNN-ESPANOL.png" group-title="Noticias",CNN ESPAÑOL
+https://bigboss.bemtv.cn/STREAM/22859/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjvNcHhL/CGTN-ES.png" group-title="Noticias",CGTN
+https://bigboss.bemtv.cn/STREAM/9472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynjvXqCb/TELESUR-NOTICIAS.png" group-title="Noticias",TELESUR
+https://metalgear.bemtv.cn/STREAM/22861/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDspfh7D/CANAL-N.png" group-title="Noticias",CANAL N
+https://metalgear.bemtv.cn/STREAM/718/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvcsS5m4/DW.png" group-title="Noticias",DW
+https://bigboss.bemtv.cn/STREAM/3518/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DT6XYv4/FRANCE-24.png" group-title="Noticias",FRANCE24
+http://170.254.234.243:8888/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84Kp2M8t/RT.png" group-title="Noticias",RT NOTICIAS
+https://bigboss.bemtv.cn/STREAM/3515/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xX0xYwh/DISCOVERY-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
+https://bigboss.bemtv.cn/STREAM/2234/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx0n2KSN/HGTV.png" group-title="Entretenimiento",HGTV
+https://otakon.bemtv.cn/STREAM/16081/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCB13h5T/E.png" group-title="Entretenimiento",E!
+https://otakon.bemtv.cn/STREAM/16036/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whxYP5tQ/EL-GOURMET.png" group-title="Entretenimiento",EL GOURMET
+https://otakon.bemtv.cn/STREAM/12269/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DH77CLHt/FOOD-NETWORK.png" group-title="Entretenimiento",FOOD NETWORK
+https://otakon.bemtv.cn/STREAM/13092/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxvSf1hN/LIFETIME.png" group-title="Entretenimiento",LIFETIME
+https://otakon.bemtv.cn/STREAM/16052/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHmwfnT8/MAS-CHIC.png" group-title="Entretenimiento",MAS CHIC
+https://otakon.bemtv.cn/STREAM/12268/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvz1vjfr/DISCOVERY-TURBO.png" group-title="Entretenimiento",DISCOVERY TURBO
+https://otakon.bemtv.cn/STREAM/9115/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pr4HxPG7/TLC.png" group-title="Entretenimiento",TLC
+https://otakon.bemtv.cn/STREAM/9114/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fbk86KrM/KANAL-D-DRAMA.png" group-title="Novelas",KANAL D DRAMA
+https://otakon.bemtv.cn/STREAM/16054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhnmYy7T/LAS-ESTRELLAS.png" group-title="Novelas",LAS ESTRELLAS
+https://otakon.bemtv.cn/STREAM/16146/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjGS06DG/PASIONES.png" group-title="Novelas",PASIONES
+https://bigboss.bemtv.cn/STREAM/22880/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqSgtSft/TLNOVELAS.png" group-title="Novelas",TLNOVELAS
+https://otakon.bemtv.cn/STREAM/22587/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldk1kbjf/TNT-NOVELAS.png" group-title="Novelas",TNT NOVELAS
+https://otakon.bemtv.cn/STREAM/13073/playlist.m3u8
