@@ -139,10 +139,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Streaming",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
-#EXTINF:-1,L1MAX
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.ts
-#EXTINF:-1,MOVISTAR DEPORTES
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.ts
-#EXTINF:-1,GOLPERU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Deportes",L1
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132292.m3u8
