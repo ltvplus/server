@@ -67,7 +67,7 @@ https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZBXjwsL/NACIONALTV-PERU.png" group-title="|PE| Región Costa",NACIONAL TV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/nacionaltv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld5mM6vY/NEOTV.png" group-title="|PE| Región Costaa",NEOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld5mM6vY/NEOTV.png" group-title="|PE| Región Costa",NEOTV
 https://live-evg25.tv360.bitel.com.pe/bitel/neotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fkw5S2wK/RTVCALLAO.png" group-title="|PE| Región Costa",RTV CALLAO
 https://servilive.com:3757/live/regiontvlive.m3u8
