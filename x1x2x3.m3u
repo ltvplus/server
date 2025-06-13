@@ -1,89 +1,167 @@
 #EXTM3U
-#EXTINF:-1,AMC
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
-#EXTINF:-1,AXN
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1,AZ CINEMA
-http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
-#EXTINF:-1,AZTECA 7
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
-#EXTINF:-1,BABY TV
-http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
-#EXTINF:-1,BANDAMAX
-http://190.11.225.124:5000/live/bandamax/playlist.m3u8
-#EXTINF:-1,CANAL 5
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-#EXTINF:-1,CARTOONITO
-http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
-#EXTINF:-1,DE PELICULA
-http://190.11.225.124:5000/live/depelicula/playlist.m3u8
-#EXTINF:-1,DHE
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-#EXTINF:-1,DISCOVERY
-http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
-#EXTINF:-1,DISNEY
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:-1,DISNEY JR.
-http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
-#EXTINF:-1,ESPN 2 MX
-http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
-#EXTINF:-1,ESPN 3 MX
-http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
-#EXTINF:-1,ESPN 4 MX 
-http://190.11.225.124:5000/live/espn_4_hd/playlist.m3u8
-#EXTINF:-1,ESPN 5 MX
-http://190.11.225.124:5000/live/espn_5_hd/playlist.m3u8
-#EXTINF:-1,ESPN 6 MX
-http://190.11.225.124:5000/live/espn_6_hd/playlist.m3u8
-#EXTINF:-1,ESTRELLAS
-http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
-#EXTINF:-1,FX
-http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
-#EXTINF:-1,GOLDEN
-http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
-#EXTINF:-1,HBO FAMILY
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
-#EXTINF:-1,HBO XTREME
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-#EXTINF:-1,HBO+
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-#EXTINF:-1,LIFETIME
-http://190.11.225.124:5000/live/lifetime/playlist.m3u8
-#EXTINF:-1,NAT GEO
-http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
-#EXTINF:-1,NICK JR.
-http://190.11.225.124:5000/live/nickjr/playlist.m3u8
-#EXTINF:-1,PARAMOUNT
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
-#EXTINF:-1,PLABOY TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1,SONY
-http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
-#EXTINF:-1,SPACE
-http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-#EXTINF:-1,TELEHIT
-http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
-#EXTINF:-1,TELEMUNDO
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1,TLNOVELAS
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
-#EXTINF:-1,TNT
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
-#EXTINF:-1,TUDN
-http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
-#EXTINF:-1,UNIVERSAL TV
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
-#EXTINF:-1,UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1,UNIVISION
-http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
-#EXTINF:-1,WARNER CHANNEL
-http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B27b6NCT/DISNEY-CHANNEL.png" group-title="Infantiles",DISNEY CHANNEL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/7047.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5SPh8Xn/DISNEY-JR.png" group-title="Infantiles",DISNEY JR.
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2819.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgHfwbJf/DISCOVERY-KIDS.png" group-title="Infantiles",DISCOVERY KIDS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/149691.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvWBk8Nt/CARTOON-NETWORK.png" group-title="Infantiles",CARTOON NETWORK
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2803.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx05Yf6n/CARTOONITO.png" group-title="Infantiles",CARTOONITO
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/149687.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xt3Fjv4f/NICKELODEON.png" group-title="Infantiles",NICKELODEON
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4859.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Jp3RPxG/NICK-JR.png" group-title="Infantiles",NICK JR.
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4858.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hL4W84x/TEEN-NICK.png" group-title="Infantiles",TEENNICK
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/149684.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDS338xS/ADULTSWIM.png" group-title="Infantiles",ADULT SWIM
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/155963.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kp7X6cqG/TOONCAST.png" group-title="Infantiles",TOONCAST
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/5064.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hf2dGVj/ANIMAL-PLANET.png" group-title="Ciencia y Cultura",ANIMAL PLANET
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2800.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpkNbq3w/LOVE-NATURE.png" group-title="Ciencia y Cultura",LOVE NATURE
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150269.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFgTQDkT/NATIONAL-GEOGRAPHIC.png" group-title="Ciencia y Cultura",NAT GEO
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4983.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGkj8np/HISTORY.png" group-title="Ciencia y Cultura",HISTORY
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2825.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pKrrZgg/HISTORY2.png" group-title="Ciencia y Cultura",HISTORY 2
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/135668.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJZ2g9Qw/DISCOVERY.png" group-title="Ciencia y Cultura",DISCOVERY
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4819.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds4TXXNH/DISCOVERY-ID.png" group-title="Ciencia y Cultura",DISCOVERY ID
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2810.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJHfh850/DISCOVERY-SCIENCE.png" group-title="Ciencia y Cultura",DISCOVERY SCIENCE
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/135667.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tGYkZRR/DISCOVERY-THEATHER.png" group-title="Ciencia y Cultura",DISCOVERY THEATER
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/135678.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DzNy8c2/DISCOVERY-WORLD.png" group-title="Ciencia y Cultura",DISCOVERY WORLD
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/135666.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYpYHzq/ESPN.png" group-title="Deportes",ESPN
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3036.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VY8gRDk/ESPN2.png" group-title="Deportes",ESPN 2
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3037.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycKgBfC7/ESPN3.png" group-title="Deportes",ESPN 3
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3038.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDbLPNgJ/ESPN4.png" group-title="Deportes",ESPN 4
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3039.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX7tcGV3/ESPN5.png" group-title="Deportes",ESPN 5
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/215029.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/215030.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/215031.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Deportes",DSPORTS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2679.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Deportes",DSPORTS2
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2680.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Deportes",DSPORTS+
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2681.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Deportes",L1
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132292.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9PdtLQ/A-E.png" group-title="Cine y Series",A&E
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3020.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5h2PGqNx/AMC.png" group-title="Cine y Series",AMC
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/37.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NXd6mZm/AXN.png" group-title="Cine y Series",AXN
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2801.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/359pqQHd/CINE-CANAL.png" group-title="Cine y Series",CINECANAL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/7972.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93vbP6Xf/CINEMAX.png" group-title="Cine y Series",CINEMAX
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/7989.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYBm3GKP/COMEDY-CENTRAL.png" group-title="Cine y Series",COMEDY CENTRAL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150323.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRCCV8bD/DHE.png" group-title="Cine y Series",DHE
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/153595.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/604rt5rk/FX.png" group-title="Cine y Series",FX
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3017.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zc73QPP/PARAMOUNT-NETWORK.png" group-title="Cine y Series",PARAMOUNT
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/48.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QF65VvwZ/SONY-CHANNEL.png" group-title="Cine y Series",SONY
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3007.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDFjjhcc/SONY-MOVIES.png" group-title="Cine y Series",SONY MOVIES
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150113.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfWXtZwh/SPACE.png" group-title="Cine y Series",SPACE
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3008.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq6mnpLF/STAR-CHANNEL.png" group-title="Cine y Series",STAR CHANNEL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2693.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/996pX4LK/STUDIO-UNIVERSAL.png" group-title="Cine y Series",STUDIO UNIVERSAL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3009.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGYLVKpN/TCM.png" group-title="Cine y Series",TCM
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/149293.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whnJrMS4/TNT.png" group-title="Cine y Series",TNT
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2797.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj702Jbq/TNT-SERIES.png" group-title="Cine y Series",TNT SERIES
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2798.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjkdR0RJ/UNIVERSAL-TV.png" group-title="Cine y Series",UNIVERSAL TV
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3012.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxpQrm5g/UNIVERSAL-CINEMA.png" group-title="Cine y Series",UNIVERSAL CINEMA
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3757.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwJmFLVL/WARNER-TV.png" group-title="Cine y Series",WARNER CHANNEL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3013.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDX578wG/CNN-ESPANOL.png" group-title="Noticias",CNN ESPAÑOL
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/135866.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjvNcHhL/CGTN-ES.png" group-title="Noticias",CGTN
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/156051.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynjvXqCb/TELESUR-NOTICIAS.png" group-title="Noticias",TELESUR
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/151670.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDspfh7D/CANAL-N.png" group-title="Noticias",CANAL N
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3331.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvcsS5m4/DW.png" group-title="Noticias",DW
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150283.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DT6XYv4/FRANCE-24.png" group-title="Noticias",FRANCE24
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/212040.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84Kp2M8t/RT.png" group-title="Noticias",RT NOTICIAS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150361.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xX0xYwh/DISCOVERY-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2809.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx0n2KSN/HGTV.png" group-title="Entretenimiento",HGTV
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4815.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCB13h5T/E.png" group-title="Entretenimiento",E!
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4936.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whxYP5tQ/EL-GOURMET.png" group-title="Entretenimiento",EL GOURMET
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132573.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DH77CLHt/FOOD-NETWORK.png" group-title="Entretenimiento",FOOD NETWORK
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132600.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxvSf1hN/LIFETIME.png" group-title="Entretenimiento",LIFETIME
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/154828.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHmwfnT8/MAS-CHIC.png" group-title="Entretenimiento",MAS CHIC
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/155965.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvz1vjfr/DISCOVERY-TURBO.png" group-title="Entretenimiento",DISCOVERY TURBO
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3702.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pr4HxPG7/TLC.png" group-title="Entretenimiento",TLC
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3011.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fbk86KrM/KANAL-D-DRAMA.png" group-title="Novelas",KANAL D DRAMA
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150282.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhnmYy7T/LAS-ESTRELLAS.png" group-title="Novelas",LAS ESTRELLAS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/129048.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjGS06DG/PASIONES.png" group-title="Novelas",PASIONES
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2827.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqSgtSft/TLNOVELAS.png" group-title="Novelas",TLNOVELAS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3798.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldk1kbjf/TNT-NOVELAS.png" group-title="Novelas",TNT NOVELAS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/162246.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRB6p6FN/HBO.png" group-title="Cine y Series",HBO
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2790.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccJD6Pcs/HBO2.png" group-title="Cine y Series",HBO2
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2791.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNStZvTj/HBO-FAMILY.png" group-title="Cine y Series",HBO FAMILY
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2792.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF3m8WZG/HBO-SIGNATURE.png" group-title="Cine y Series",HBO SIGNATURE
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2794.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3s4Jq0Q/HBO-XTREME.png" group-title="Cine y Series",HBO XTREME
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3015.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsctxMnK/PLAYBOY-TV.png" group-title="Adultos",PLAYBOY TV
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/200127.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ppGppS8/SEXTREME.png" group-title="Adultos",SEXTREME
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4163.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQz5w2wJ/VENUS.png" group-title="Adultos",VENUS
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4185.m3u8
