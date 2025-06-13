@@ -27,8 +27,8 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7n0n14L/KARIBENA.png" group-title="|PE| Locales",KARIBEÑA
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SYt4PhF/TOP-LATINO.png" group-title="|PE| Locales",TOP LATINO
-https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfxDLp84/PBO.png" group-title="|PE| Locales",PBO
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="|PE| Locales",OVACION
 https://5c3fb01839654.streamlock.net:1963/iptvovacion2/liveovacion2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="|PE| Locales",CONECTA2 TV
@@ -59,42 +59,24 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B513TXpt/CANAL-IPE.png" group-title="|PE| Locales",CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng86jy1t/ODTV.png" group-title="|PE| Locales",ONDA DIGITAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng86jy1t/ODTV.png" group-title="|PE| Región Costa",ONDA DIGITAL TV
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ym4TnB7m/ODTV2.png" group-title="|PE| Locales",ONDA DIGITAL TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ym4TnB7m/ODTV2.png" group-title="|PE| Región Costa",ONDA DIGITAL TV 2
 https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKjsJGWS/ODRADIO.png" group-title="|PE| Locales",ONDA DIGITAL 3 RADIO
-https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DP3Gzhj1/ONDA-DIGITAL.png" group-title="|PE| Locales",ONDA DIGITAL
-https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfxDLp84/PBO.png" group-title="|PE| Locales",PBO
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kV5160y4/CTV.png" group-title="|PE| Locales",CTV PERU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kV5160y4/CTV.png" group-title="|PE| Región Costa",CTV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZBXjwsL/NACIONALTV-PERU.png" group-title="|PE| Locales",NACIONAL TV PERU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZBXjwsL/NACIONALTV-PERU.png" group-title="|PE| Región Costa",NACIONAL TV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/nacionaltv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld5mM6vY/NEOTV.png" group-title="|PE| Locales",NEOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld5mM6vY/NEOTV.png" group-title="|PE| Región Costaa",NEOTV
 https://live-evg25.tv360.bitel.com.pe/bitel/neotv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fkw5S2wK/RTVCALLAO.png" group-title="|PE| Locales",RTV CALLAO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fkw5S2wK/RTVCALLAO.png" group-title="|PE| Región Costa",RTV CALLAO
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q77BmbxQ/TVONE.png" group-title="|PE| Locales",TVONE
-https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tyP8MP6/COSMOS.png" group-title="|PE| Región Costa",COSMOS TV
 https://live-evg12.tv360.bitel.com.pe/8134/8134/chunklist_w1482158653.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksjKMwBq/N-CANAL.png" group-title="|PE| Región Costa",N CANAL
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFQRbQVR/SOLTV.png" group-title="|PE| Región Costa",SOLTV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR AREQUIPA
-https://telesurnew.b-cdn.net/hls/arequipa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR ILO
-https://telesurnew.b-cdn.net/hls/ilo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR MOLLENDO
-https://telesurnew.b-cdn.net/hls/mollendo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR MOQUEGUA
-https://telesurnew.b-cdn.net/hls/moquegua.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzNH3ZX/TELESUR.png" group-title="|PE| Región Costa",TELESUR TACNA
-https://telesurnew.b-cdn.net/hls/tacna.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cp2PwPNJ/VISION-SUR.png" group-title="|PE| Región Costa",VISION SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39M98nM2/AGROTV.png" group-title="|PE| Región Sierra",AGRO TV
@@ -111,6 +93,12 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RNPCxBb/UNITELTV.png" group-title="|PE| Región Sierra",UNITEL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",CADENA TV
+https://live-zlr1.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",XTV
+https://live-evg25.tv360.bitel.com.pe/bitel/xtv/bitel/xtv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",XTV PLUS
+https://live-evg25.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vpcqvr8/AMAZONICA-TV.png" group-title="|PE| Región Selva",AMAZONICA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkgR4Wdx/AUTENTICA-TV.png" group-title="|PE| Región Selva",AUTENTICA TV
@@ -129,6 +117,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/chu
 https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MygFNQgG/TELECOLOR.png" group-title="|PE| Región Selva",TELECOLOR
 https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|PE| Región Selva",VIA TELEVISION
+https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfRxQPym/SIMPSON.png" group-title="Streaming",LOS SIMPSON
 https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjYt4880/LOS-PITUFOS.png" group-title="Streaming",LOS PITUFOS
@@ -139,11 +129,3 @@ https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSK4tHSM/EL-CHAVO.png" group-title="Streaming",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Deportes",L1
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Deportes",L1MAX
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RWCzBjg/GOLPERU.png" group-title="Deportes",GOLPERU
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132292.m3u8
