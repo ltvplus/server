@@ -146,9 +146,9 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3017.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Zc73QPP/PARAMOUNT-NETWORK.png" group-title="Cine y Series",PARAMOUNT
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/48.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QF65VvwZ/SONY-CHANNEL.png" group-title="Cine y Series",SONY
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3007.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDFjjhcc/SONY-MOVIES.png" group-title="Cine y Series",SONY MOVIES
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150113.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonymovies.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfWXtZwh/SPACE.png" group-title="Cine y Series",SPACE
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/3008.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq6mnpLF/STAR-CHANNEL.png" group-title="Cine y Series",STAR CHANNEL
