@@ -60,11 +60,11 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B513TXpt/CANAL-IPE.png" group-title="|PE| Locales",CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B27b6NCT/DISNEY-CHANNEL.png" group-title="Infantiles",DISNEY CHANNEL
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/7047.m3u8
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2815.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5SPh8Xn/DISNEY-JR.png" group-title="Infantiles",DISNEY JR.
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2819.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgHfwbJf/DISCOVERY-KIDS.png" group-title="Infantiles",DISCOVERY KIDS
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/149691.m3u8
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2811.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvWBk8Nt/CARTOON-NETWORK.png" group-title="Infantiles",CARTOON NETWORK
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2803.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx05Yf6n/CARTOONITO.png" group-title="Infantiles",CARTOONITO
@@ -82,7 +82,7 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/5064.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hf2dGVj/ANIMAL-PLANET.png" group-title="Ciencia y Cultura",ANIMAL PLANET
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/2800.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpkNbq3w/LOVE-NATURE.png" group-title="Ciencia y Cultura",LOVE NATURE
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/150269.m3u8
+http://201.182.248.254:8888/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFgTQDkT/NATIONAL-GEOGRAPHIC.png" group-title="Ciencia y Cultura",NAT GEO
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/4983.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGkj8np/HISTORY.png" group-title="Ciencia y Cultura",HISTORY
