@@ -93,11 +93,11 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RNPCxBb/UNITELTV.png" group-title="|PE| Región Sierra",UNITEL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",CADENA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMDQPVJn/CADENATV.png" group-title="|PE| Región Sierra",CADENA TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",XTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CT51N9s/XTV.png" group-title="|PE| Región Sierra",XTV
 https://live-evg25.tv360.bitel.com.pe/bitel/xtv/bitel/xtv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|PE| Región Sierra",XTV PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ztdhXYn/XTVPLUS.png" group-title="|PE| Región Sierra",XTV PLUS
 https://live-evg25.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vpcqvr8/AMAZONICA-TV.png" group-title="|PE| Región Selva",AMAZONICA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
@@ -117,7 +117,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/chu
 https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MygFNQgG/TELECOLOR.png" group-title="|PE| Región Selva",TELECOLOR
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|PE| Región Selva",VIA TELEVISION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVTGcTVh/VIA-TELEVISION.png" group-title="|PE| Región Selva",VIA TELEVISION
 https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfRxQPym/SIMPSON.png" group-title="Streaming",LOS SIMPSON
 https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
